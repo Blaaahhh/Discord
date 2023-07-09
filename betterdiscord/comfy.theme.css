@@ -65,7 +65,7 @@
   /* ═══════『 😃 Colored emoji picker 』═══════
 *   Change the value to "100%" if you want the default one */
 
-  --colored-emoji: grayscale(0%);
+  --colored-emoji: grayscale(100%);
 
   /* ═══════『 📜 Server/channel list 』═══════ */
 
@@ -120,7 +120,7 @@
   --playing: #7289da;
 
   /* Listening wave color */
-  --listening: #1db653;
+  --listening: #34f3a2;
 
   /* Role circle - Default value : 5px */
   --role-circle: 5px;
