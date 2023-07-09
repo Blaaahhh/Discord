@@ -65,7 +65,7 @@
   /* ═══════『 😃 Colored emoji picker 』═══════
 *   Change the value to "100%" if you want the default one */
 
-  --colored-emoji: grayscale(100%);
+  --colored-emoji: grayscale(50%);
 
   /* ═══════『 📜 Server/channel list 』═══════ */
 
@@ -73,7 +73,7 @@
   --mention-color: #f04747;
 
   /* Unread - Default value : #7289DA */
-  --unread-color: #7289da;
+  --unread-color: #E7D96F;
 
   /*  『 🔴 Mention colors in chat 』 */
 
@@ -89,13 +89,13 @@
   /* ═══════『 💬 Chat buttons 』═══════ */
 
   /* Default value : #7289DA */
-  --chat-buttons: #7289da;
+  --chat-buttons: #F1AF4D;
 
   /* ═══════『 💬 SpotifyControls seek bar 』═══════
 *   ℹ️ : If you don't have the plugin : https://betterdiscord.app/plugin/SpotifyControls */
 
   /* Default value : #1EDC62 */
-  --spotify-color: #1edc62;
+  --spotify-color: #F87B4E;
 
   /* ═══════『 🟢 Status 』═══════ */
 
@@ -120,7 +120,7 @@
   --playing: #7289da;
 
   /* Listening wave color */
-  --listening: #34f3a2;
+  --listening: #F87B4E;
 
   /* Role circle - Default value : 5px */
   --role-circle: 5px;
