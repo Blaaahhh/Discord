@@ -132,22 +132,22 @@
 }
 
 .theme-dark {
-  --background-primary: #E9E7B5;
-  --background-secondary: #E7D795;
-  --background-secondary-alt: #E7C295;
-  --background-tertiary: #D4C9A8;
-  --background-accent: #E9BE2A;
+  --background-primary: #FFDFC2;
+  --background-secondary: #FCDAB2;
+  --background-secondary-alt: #FFD595;
+  --background-tertiary: #FACB92;
+  --background-accent: #F9C695;
 
-  --modal-background: #E9E7B5;
-  --background-mobile-primary: #E9E7B5;
-  --background-mobile-secondary: #E7D795;
-  --channeltextarea-background: #E7C295;
+  --modal-background: #FFDFC2;
+  --background-mobile-primary: #FFDFC2;
+  --background-mobile-secondary: #FCDAB2;
+  --channeltextarea-background: #FFD595;
   --background-message-hover: transparent;
   --background-modifier-hover: #00000010;
   --background-modifier-active: #0000001a;
   --background-modifier-selected: #0000001f;
   --deprecated-card-bg: #12141f63;
-  --background-floating: #D4C9A8;
+  --background-floating: #FACB92;
   --deprecated-quickswitcher-input-background: #101320;
   --elevation-low: none;
   --scrollbar-auto-thumb: #121722;
@@ -158,11 +158,11 @@
 }
 
 .theme-light {
-  --background-primary: #E9E7B5;
-  --background-secondary: #E7D795;
-  --background-secondary-alt: #E7C295;
-  --background-tertiary: #D4C9A8;
-  --background-accent: #7289da;
+  --background-primary: #FFDFC2;
+  --background-secondary: #FCDAB2;
+  --background-secondary-alt: #FFD595;
+  --background-tertiary: #FACB92;
+  --background-accent: #F9C695;
   --background-modifier-hover: #262b41;
   --background-modifier-active: #262b41;
   --modal-background: var(--background-primary);
