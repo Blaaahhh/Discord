@@ -135,7 +135,7 @@
   --background-primary: #E9E7B5;
   --background-secondary: #E7D795;
   --background-secondary-alt: #E7C295;
-  --background-tertiary: #CBD16E;
+  --background-tertiary: #D4C9A8;
   --background-accent: #E9BE2A;
 
   --modal-background: #E9E7B5;
@@ -147,7 +147,7 @@
   --background-modifier-active: #0000001a;
   --background-modifier-selected: #0000001f;
   --deprecated-card-bg: #12141f63;
-  --background-floating: #CBD16E;
+  --background-floating: #D4C9A8;
   --deprecated-quickswitcher-input-background: #101320;
   --elevation-low: none;
   --scrollbar-auto-thumb: #121722;
@@ -161,7 +161,7 @@
   --background-primary: #E9E7B5;
   --background-secondary: #E7D795;
   --background-secondary-alt: #E7C295;
-  --background-tertiary: #101320;
+  --background-tertiary: #D4C9A8;
   --background-accent: #7289da;
   --background-modifier-hover: #262b41;
   --background-modifier-active: #262b41;
