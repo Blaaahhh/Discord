@@ -153,7 +153,7 @@
   --scrollbar-auto-thumb: #121722;
   --scrollbar-auto-track: #191f2e;
   --scrollbar-thin-thumb: #141925;
-  --activity-card-background: #101320;
+  --activity-card-background: #FACB92;
   --input-background: #D8C685;
 }
 
@@ -163,10 +163,10 @@
   --background-secondary-alt: #FFD595;
   --background-tertiary: #FACB92;
   --background-accent: #F9C695;
-  --background-modifier-hover: #262b41;
-  --background-modifier-active: #262b41;
+  --background-modifier-hover: #F9C695;
+  --background-modifier-active: #F9C695;
   --modal-background: var(--background-primary);
   --header-primary: #fff;
-  --header-secondary: #b1b5b9;
-  --text-normal: #8e9297;
+  --header-secondary: ##DAF7A6;
+  --text-normal: #000000;
 }
