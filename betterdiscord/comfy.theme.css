@@ -65,7 +65,7 @@
   /* ═══════『 😃 Colored emoji picker 』═══════
 *   Change the value to "100%" if you want the default one */
 
-  --colored-emoji: grayscale(50%);
+  --colored-emoji: grayscale(0%);
 
   /* ═══════『 📜 Server/channel list 』═══════ */
 
@@ -117,7 +117,7 @@
   /* ═══════『 🔰 User popout 』═══════ */
 
   /* Playing wave color */
-  --playing: #7289da;
+  --playing: #F77F66;
 
   /* Listening wave color */
   --listening: #F87B4E;
@@ -132,29 +132,29 @@
 }
 
 .theme-dark {
-  --background-primary: #23283d;
-  --background-secondary: #1e2233;
-  --background-secondary-alt: #191f2e;
-  --background-tertiary: #101320;
-  --background-accent: #7289da;
+  --background-primary: #BBB619;
+  --background-secondary: #BCBE33;
+  --background-secondary-alt: #B8A528;
+  --background-tertiary: #CBD16E;
+  --background-accent: #E9BE2A;
 
   --modal-background: #23283d;
-  --background-mobile-primary: #23283d;
-  --background-mobile-secondary: #1e2233;
-  --channeltextarea-background: #191f2e;
+  --background-mobile-primary: #BBB619;
+  --background-mobile-secondary: #BCBE33;
+  --channeltextarea-background: #B8A528;
   --background-message-hover: transparent;
   --background-modifier-hover: #00000010;
   --background-modifier-active: #0000001a;
   --background-modifier-selected: #0000001f;
   --deprecated-card-bg: #12141f63;
-  --background-floating: #101320;
+  --background-floating: #CBD16E;
   --deprecated-quickswitcher-input-background: #101320;
   --elevation-low: none;
   --scrollbar-auto-thumb: #121722;
   --scrollbar-auto-track: #191f2e;
   --scrollbar-thin-thumb: #141925;
   --activity-card-background: #101320;
-  --input-background: #1e2233;
+  --input-background: #D8C685;
 }
 
 .theme-light {
